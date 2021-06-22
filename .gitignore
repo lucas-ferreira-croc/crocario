@@ -1,0 +1,17 @@
+#Directories
+.vs/
+/x64
+/Debug
+/Release
+
+croc_plataform/Debug
+croc_plataform/Release
+croc_plataform/x64
+
+#Files
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.sln
+
+olcPixelGameEngine.h
